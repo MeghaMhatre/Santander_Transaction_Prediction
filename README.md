@@ -26,3 +26,6 @@ You are provided with an anonymized dataset containing numeric feature variables
 
 The task is to predict the value of target column in the test set.
 
+Please refer to notebook transaction_prediction.ipynb for detailed code.
+
+Also report updated on Udacity Capstone Project Report.pdf
